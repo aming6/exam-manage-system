@@ -1,0 +1,31 @@
+﻿.txt
+{
+    width: 200px;
+    border: 1px solid gray;
+    height: 25px;
+    line-height: 25px;
+    font-size: 14px;
+}
+.textarea
+{
+    width: 400px;
+    border: 1px solid gray;
+    height: 150px;
+    font-size: 14px;
+}
+.tip
+{
+    color: red;
+    font-size: 14px;
+}
+.btn
+{
+    border: 1px solid gray;
+    cursor: hand;
+    text-align: center;
+    width: 80px;
+    height: 25px;
+    line-height: 25;
+    color: black;
+    padding: 2px;
+}
