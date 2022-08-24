@@ -84,7 +84,7 @@
                     <td style="width: 70px; text-align: center;">
                         班级：
                     </td>
-                    <td>
+                     <td>
                         <select id="sltBanJi" name="sltBanJi" style="width: 150px;">
                             <option selected="selected" value="-1">==请选择==</option>
                         </select>

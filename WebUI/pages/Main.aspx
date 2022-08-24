@@ -124,9 +124,7 @@
             </div>
         </div>
         <div position="bottom" style="text-align: center; line-height: 50px;">
-            <span style="margin-left: 10px; float: left; font-weight: bold;">
-                <img src="../images/function_icon_set/clock_48.png" alt="当前时间" style="width: 20px;" />
-                &nbsp;&nbsp;<span style="font-weight: lighter;" id="Mytimer"></span></span> Copyright © 2022 xxx
+            &nbsp;Copyright © 2022 xxx
         </div>
     </div>
     <script type="text/javascript">

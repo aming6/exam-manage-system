@@ -27,7 +27,8 @@
             width: 700px;
             height: 100px;
             overflow: hidden;
-            background: url('../images/login/logo.jpg') no-repeat;
+            background: url('../images/login/logo3.png') no-repeat;
+            margin-left: 140px;
             margin-top: 50px;
         }
         #loginpanel
@@ -61,7 +62,7 @@
             z-index: 2;
             background: url('../images/login/panel-c.gif') repeat-y;
             width: 729px;
-            height: 300px;
+            height: 299px;
         }
         .panel-c-l
         {
@@ -102,14 +103,26 @@
         }
         .login-btn
         {
-            width: 114px;
+
+            margin-top: 20px;
+            width: 60%;
+            height: 30px;
+            border-radius: 10px;
+            border: 0;
+            color: #fff;
+            cursor: pointer;
+            text-align: center;
+            line-height: 30px;
+            font-size: 15px;
+            background-image: linear-gradient(to right, #74ebd5 0%, #9face6 100%);
+           /* width: 114px;
             height: 29px;
             color: #E9FFFF;
             line-height: 29px;
             background: url('../images/login/login-btn.gif') no-repeat;
             border: none;
             overflow: hidden;
-            cursor: pointer;
+            cursor: pointer;*/
         }
         #txtUsername, #txtPassword
         {
@@ -186,7 +199,7 @@
                     <p>
                         如果遇到系统问题，请联系网络管理员。</p>
                     <p>
-                        电话：0834-98374837</p>
+                        电话：8888-8888</p>
                 </div>
             </div>
             <div class="panel-f">

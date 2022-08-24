@@ -89,4 +89,10 @@ public partial class pages_FirestPage : System.Web.UI.Page
 
 
     }
+
+    protected void Button1_Click(object sender, EventArgs e)
+    {
+        string strCmd3 = "truncate table KeChengBiao";
+        SqlHelper.Execute(strCmd3);
+    }
 }
